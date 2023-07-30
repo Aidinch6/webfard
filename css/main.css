@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div.box {
+  width: 600px;
+  background-color: purple;
+  color: white;
+  padding: 40px;
+  margin: 150px auto;
+  border-radius: 24px;
+  box-shadow: 5px 5px 5px black;
+}
